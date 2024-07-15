@@ -234,6 +234,7 @@ footer {
   }
   .section-description {
     text-align: start;
+    margin: 15px 0;
   }
   .shadow-box {
     margin: 0;
@@ -248,6 +249,9 @@ footer {
   .our-sponspors {
     width: 542px;
     margin: 0 auto;
+    & h1,p{
+        text-align: center;
+    }
   }
   .section-four-box {
     display: flex;
