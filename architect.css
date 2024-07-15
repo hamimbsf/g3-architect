@@ -250,8 +250,9 @@ footer {
   .our-sponspors {
     width: 542px;
     margin: 0 auto;
-    & h1,p{
-        text-align: center;
+    & h1,
+    p {
+      text-align: center;
     }
   }
   .section-four-box {
