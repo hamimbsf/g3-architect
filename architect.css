@@ -161,6 +161,7 @@ header {
 }
 #footer-img {
   margin-top: 2rem;
+  filter: grayscale(100%);
 }
 .section-four {
   margin-bottom: 5rem;
